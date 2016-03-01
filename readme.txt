@@ -1,1 +1,3 @@
 charge 1
+charge 2
+charge 3
